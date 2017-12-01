@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+    <style>
+        body {
+            background-image: url('https://lh3.googleusercontent.com/-xucLL5xEp54/WeRQg222uQI/AAAAAAAAHBU/qOUjGuJEnSIxNXhIs2JR6xOCeMzIMjLGACJkCGAYYCw/s1000-fcrop64=1,00000000ffffffff/keep-calm-orange-pokemon-charmander-1.jpg');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-attachment: fixed;
+            background-size: cover;
+            font-family: 'Roboto', sans-serif;
+            font-size: 20px;
+        }
+        .contactCard {
+            position: absolute;
+            bottom: 10%;
+            right: 10%;
+            -moz-border-radius: 60px;
+            -webkit-border-radius: 60px;
+            border-radius: 60px;
+            background: rgba(255,255,255,0.5);
+            padding: 30px;
+        }
+        .avatar {
+            -moz-border-radius: 30px;
+            -webkit-border-radius: 30px;
+            border-radius: 30px;
+            float: right;
+            margin-top:-5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="contactCard">
+        <img class="avatar" width="60" height="60" src="https://lh3.googleusercontent.com/-gCUX4hD8JIE/AAAAAAAAAAI/AAAAAAAAHA0/F-q7grYo2_Y/s120-p-rw-no/photo.jpg"/>
+        <h2>Paul Scheltema</h2>
+        <p>
+            Naam: Paul Scheltema<br/>
+            Adres: iepenlaan 5, 9741 GA, Groningen<br/>
+            Telefoon: 0638155470<br/>
+            Email: paulscheltema@gmail.com<br/>
+            Web: https://paulscheltema.nl/<br/>
+            BTW: NL 110863434 B02<br/>
+            KvK: 70198357<br/>
+            Rekeningnummer: NL 75 INGB 0007 9244 43
+        </p>
+    </div>
+</body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/paulscheltema/paulscheltema.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulscheltema/paulscheltema.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
